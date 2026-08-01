@@ -30,16 +30,7 @@
 
 </div>
 
-<hr style="border: 1px solid #7C3AED33; margin: 30px 0;" />
 
-<!-- ========================================== -->
-<!-- SECTION 2: CUSTOM AI BANNER                -->
-<!-- ========================================== -->
-<div align="center">
-  <img src="assets/hero-banner.png" width="100%" style="border-radius: 12px; border: 1px solid #7C3AED55; box-shadow: 0 8px 32px 0 rgba(124, 58, 237, 0.2);" alt="AI Engineer Banner" />
-</div>
-
-<br/>
 
 <!-- ========================================== -->
 <!-- SECTION 3: ABOUT ME (GLASSMorphism CARD)   -->
