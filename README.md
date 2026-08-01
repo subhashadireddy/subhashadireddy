@@ -114,7 +114,7 @@
   <table border="0" style="border-collapse: collapse; background-color: transparent;">
     <tr>
       <td valign="top" align="center" style="padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=subhashadireddy&show_icons=true&theme=dark&bg_color=09090B&title_color=7C3AED&text_color=E2E8F0&icon_color=06B6D4&border_color=7C3AED33&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Subhash's GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=subhashadireddy&show_icons=true&theme=dark&bg_color=09090B&title_color=7C3AED&text_color=E2E8F0&icon_color=06B6D4&border_color=7C3AED33&count_private=true" alt="Subhash's GitHub Stats" />
       </td>
       <td valign="top" align="center" style="padding: 5px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhashadireddy&theme=dark&background=09090B&border=7C3AED33&stroke=7C3AED&ring=06B6D4&fire=06B6D4&currStreakNum=7C3AED&currStreakLabel=06B6D4&sideNums=06B6D4&sideLabels=E2E8F0&dates=94A3B8" alt="Subhash's GitHub Streak" />
@@ -217,7 +217,7 @@
   <table border="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashadireddy&layout=compact&theme=dark&bg_color=09090B&title_color=06B6D4&text_color=E2E8F0&icon_color=7C3AED&border_color=7C3AED33&langs_count=8" alt="Top Languages Breakdown" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=subhashadireddy&layout=compact&theme=dark&bg_color=09090B&title_color=06B6D4&text_color=E2E8F0&icon_color=7C3AED&border_color=7C3AED33&langs_count=8" alt="Top Languages Breakdown" />
       </td>
     </tr>
   </table>
