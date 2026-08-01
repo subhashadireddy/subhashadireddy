@@ -25,7 +25,6 @@
   <p align="center">
     <a href="https://github.com/subhashadireddy?tab=followers"><img src="https://img.shields.io/github/followers/subhashadireddy?style=for-the-badge&logo=github&color=7C3AED&labelColor=09090B" alt="GitHub Followers" /></a>
     <a href="https://github.com/subhashadireddy"><img src="https://img.shields.io/github/stars/subhashadireddy?style=for-the-badge&logo=github&color=06B6D4&labelColor=09090B" alt="GitHub Stars" /></a>
-    <img src="https://komarev.com/ghpvc/?username=subhashadireddy&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
@@ -190,10 +189,10 @@
 
 
 <!-- ========================================== -->
-<!-- SECTION 8: GITHUB LANGUAGE ANALYTICS & TROPHIES -->
+<!-- SECTION 8: GITHUB LANGUAGE ANALYTICS       -->
 <!-- ========================================== -->
 <h2 align="center">
-  <span style="color: #7C3AED;">📈</span> <span style="color: #F8FAFC;">Language Breakdown &amp;</span> <span style="color: #06B6D4;">Trophies</span>
+  <span style="color: #7C3AED;">📈</span> <span style="color: #F8FAFC;">Language</span> <span style="color: #06B6D4;">Breakdown</span>
 </h2>
 
 <div align="center">
@@ -204,14 +203,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
-
-<!-- GitHub Trophies Wall -->
-<div align="center">
-  <h4 style="color: #06B6D4;">🏆 GitHub Trophies Wall</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=subhashadireddy&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -342,15 +333,7 @@
 
 <br/>
 
-<!-- ========================================== -->
-<!-- SECTION 15: VISITOR COUNTER               -->
-<!-- ========================================== -->
-<div align="center">
-  <h4 style="color: #06B6D4;">👀 Profile Visitors</h4>
-  <img src="https://profile-counter.glitch.me/subhashadireddy/count.svg" alt="Visitor Counter" />
-</div>
 
-<br/>
 
 <!-- ========================================== -->
 <!-- SECTION 16: CONTRIBUTION SNAKE ANIMATION  -->
