@@ -291,27 +291,11 @@
 </h2>
 
 <!-- RECENT_ACTIVITY:start -->
-- ⚡ Committed to `subhashadireddy/subhashadireddy` - *Updated futuristic profile dashboard*
-- 🚀 Created repository `subhashadireddy/portfolio`
-- 🔀 Opened Pull Request in `subhashadireddy/railwaygo`
 <!-- RECENT_ACTIVITY:end -->
 
 <br/>
 
-<!-- ========================================== -->
-<!-- SECTION 12: BLOG ARTICLES (AUTO-SYNC)      -->
-<!-- ========================================== -->
-<h2 align="center">
-  <span style="color: #7C3AED;">✍️</span> <span style="color: #F8FAFC;">Latest</span> <span style="color: #06B6D4;">Publications &amp; Articles</span>
-</h2>
 
-<!-- BLOG-POST-LIST:START -->
-- 📝 [Understanding Attention Mechanisms in Transformer Architectures](https://medium.com/@subhashadireddy)
-- 📝 [Building Autonomous AI Agents with LangChain &amp; Python](https://hashnode.com/@subhashadireddy)
-- 📝 [A Complete Guide to Retrieval-Augmented Generation (RAG)](https://medium.com/@subhashadireddy)
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
 
 <!-- ========================================== -->
 <!-- SECTION 13: NOW WORKING ON                 -->
